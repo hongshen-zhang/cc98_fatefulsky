@@ -1,5 +1,5 @@
-# 98科研系列——量化缘分天空中阅读数与点赞数的影响因素
-# Quantifying the influence factors of the number of reading and likes in fateful sky
+# 98科研系列——量化缘分天空中阅读数与点赞数的影响因素(https://github.com/hongshen-zhang/cc98_fatefulsky)
+# Quantifying the influence factors of the number of reading and likes in fateful sky(https://github.com/hongshen-zhang/cc98_fatefulsky)
 ## 作者：申,jkljk6
 
  ![Language](https://img.shields.io/badge/language-Python-darkgreen.svg)
