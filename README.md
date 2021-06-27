@@ -39,4 +39,4 @@
 3. 图2(C)部分使用最小二乘法进行拟合。
 4. 学历部分：学历以将要获得的最高学历为参考，例如本科毕业，硕士在读——硕士，硕士毕业，博士在读——博士。
 5. 吐槽：数据噪声太大，没法做，做到0.6相关性的时候我都想放弃了，但是想一想也勉强合理，毕竟怎么可能不看脸，不看房呢呢？做出0.9相关性岂不是造假了。
-6. github地址为：https://github.com/hongshen-zhang/cc98_fatefulsky
+6. 代码：https://github.com/hongshen-zhang/cc98_fatefulsky
