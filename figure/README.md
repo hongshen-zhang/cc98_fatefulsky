@@ -56,4 +56,4 @@
 ![](https://i.loli.net/2021/07/05/5eZCURmcEFlpdQx.jpg)
 
 
-<big>**感谢阅读，祝大家今天发财，明天中paper，后天脱单！**</big>
+**<big>感谢阅读，祝大家今天发财，明天中paper，后天脱单！</big>**
