@@ -41,5 +41,5 @@
 ![](https://i.loli.net/2021/07/05/niEYQDRz8tOjgFl.png)
 
 
-[link](# 一台笔记本加上一台显示器) jump to title
+[link](#一台笔记本加上一台显示器) jump to title
 
